@@ -6,3 +6,5 @@ laravel full section starter kit (v1)
 - Bootstrap css/js
 - Admin Panel
 - Library Directory App
+
+ETC.
